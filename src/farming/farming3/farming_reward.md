@@ -25,11 +25,11 @@ revenue =  CU sold * CU price + SU sold * SU price
 
 ## Proof-of-Capacity
 
-- cloud units are the base of measurement
-  - [CU](cloudunits) = based on  Compute Capacity (CPU) and Memory Capacity (RAM) available
-  - [SU](cloudunits) = based on Storage Capacity (SSD/HDD) available
-  - [NU_month](cloudunits) = based on nr of TB as transfered in/out from your 3Node
-- 
+- [CU](cloudunits) = based on  Compute Capacity (CPU) and Memory Capacity (RAM) available
+- [SU](cloudunits) = based on Storage Capacity (SSD/HDD) available
+- [NU_hour](cloudunits) = based on nr of GB as transfered in/out from your 3Node
+- Available IP addresses, but only rewarded when used by a TFGrid user.
+
 Farmers receive rewards as follows:
 
 !!!include:reward_table_
@@ -42,7 +42,7 @@ Farmers receive rewards as follows:
   - [CU_month](cloudunits) = based on  Compute Capacity (CPU) and Memory Capacity (RAM)
   - [SU_month](cloudunits) = based on Storage Capacity (SSD/HDD)
 - Pricing of [CU/SU](cloudunits_pricing)
-- The farmer get's 10-50% of the [Cultivation Flows = revenue](cultivation_flow) for CU/SU.
+- The farmer get's 10-50% of the [Cultivation Flows = revenue](cultivation_flow) for **CU/SU**.
 
 !!!include:staking_farmed_tft
 

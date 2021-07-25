@@ -1,16 +1,16 @@
 ![](img/farming_reward.png ':size=350x')
 
 
-# ThreeFold Sales Channel
+# ThreeFold Sales Channels
 
-Threefold promotes 2 sales channels.
-
-1. direct = wholesales, every person in the world can buy capacity using the ThreeFold_explorer at wholesale prices.
-2. indirect = ThreeFold partners buy the wholesales capacity and are rewarded rebates by threefold to compensate for the sales effort.
+1. **direct** = every person in the world can buy capacity using our blockchain = TFChain <BR>with a [discount](staking_discount_levels) based on level of staking.
+2. **indirect** = ThreeFold selected partners are rewarded additional rebates to compensate for the sales effort.
 
 ## Indirect
 
-Because of how farming is being structured (starting TFGrid 3), see [farming/minting logic](farming_reward) there is 50-70% available of the cultivation fees to reward the sales channel. This means that the sales channel in multiple steps can be rewarded to create solutions on top of TFGrid and sell the capacity.
+Because of how farming is being structured (starting TFGrid 3) there is upto 60% available of the cultivation fees to reward the sales channel. This means that the sales channel in multiple steps can be rewarded to create solutions on top of TFGrid and sell the capacity.
+
+If partners buy the capacity for their own usecase they also receive the [discount](staking_discount_levels) based on level of staking.
 
 ### Example with software vendor
 

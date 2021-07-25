@@ -2,24 +2,33 @@
 
 ![](img/wisdom_council.png)
 
-The Wisdom Council is composed of 10 ThreeFold Guardians.
+In order to make balanced, fair and effective decisions regarding ThreeFold Foundation funds distribution, ThreeFold Foundation has adopted the Wisdom Council system as a resource model of harmonious decision making.
 
-## Mission
-
-To financially support consciously aligned do-good projects and organizations, and protect the interests of the ThreeFold vision and mission.
 
 *Based upon ancient leadership practices and modern social science techniques as a way to consider all perspectives of the members in order to make decisions that are in the greatest interest of the mission and for the good of all.*
 
-10 members have the following functions:
+The Wisdom Council members converge (online or live when possible) to discuss and vote upon the distribution of funds from ThreeFold Foundation to pre-approved and/or pre-selected do-good projects and organizations.
 
-- Protect the interests of the ThreeFold Foundation
-- Approve TFT donations to doing good projects
-- Agree on changes in protocol e.g. [farming_reward](farming_reward) table
+ThreeFold Foundation receives through the blockchain a percentage of all cloud capacity farmed and sold on the ThreeFold Grid. These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary do-good projects.
+
+The Wisdom Council is composed of 9-12 members.
+
+Wisdom Council has following veto rights:
+
+- Approve TFT donations to ThreeFold related contribution projects or doing good projects.
+- Agree on changes in protocol or required data on TFChain e.g. [farming reward](farming_reward), [pricing](grid_pricing) or [discount](staking_discount_levels) table. We expect that somewhere in the future our DAO will take over some of these functions.
+- Approval of new [sales channels](threefold_sales_channel). The sales channels are recorded in TFChain (starting 3.1).
+
+Next to this ThreeFold can ask for further guidance:
+
+- Approval of changes on knowledge base (wiki) whenever community or a ThreeFold organization requires this.
 
 ## Process
 
-ThreeFold Foundation prepares all the decisions to be taken by the Wisdom Council.
-Eventually, voting happens using blockchain technology and is done by all Wisdom Council members.
+ThreeFold Foundation prepares all the decisions to be taken and information to be reviewed by the Wisdom Council.
+Voting happens using blockchain technology and is done by all Wisdom Council members.
+
+Meeting minutes will be available on the https://info.threefold.io system. The first wisdom council meeting is planned for Summer 2021 and amongst others a review will happen for farming rewards, pricing & discount table.
 
 ## Members
 
@@ -34,21 +43,10 @@ We also call a Wisdom Council Member a ThreeFold Guardian.
 - Adnan Fatayerji
 - Dave de Belder
 - Dimitrios Dementzioglou
-- Jennifer Long
 - Kristof de Spiegeleer
 - Owen Kemp
 
 Meet our current [**Wisdom Council members**](https://threefold.io/aci/wisdomcouncil)
-
-## Responsibility
-
-In order to make balanced, fair and effective decisions regarding ThreeFold Foundation funds distribution, ThreeFold Foundation has adopted the Wisdom Council system as a resource model of harmonious communication.
-
-Based upon the ageless principles of the Wisdom Council equation, Members will converge (online or live when possible) to discuss and vote upon the distribution of funds from ThreeFold Foundation to pre-approved and/or pre-selected do-good projects and organizations.
-
-ThreeFold Foundation receives through the blockchain a small percentage of all cloud capacity farmed and sold on the ThreeFold Grid. 
-
-These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary do-good projects.
 
 ## Fit for duty requirements
 

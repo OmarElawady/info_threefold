@@ -1,0 +1,7 @@
+{
+	"fs_path": "../src",
+	"name": "info",
+	"domains": [
+		"info.threefold.io"
+	]
+}

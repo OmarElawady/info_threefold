@@ -5,7 +5,7 @@ tasks:
       command: sudo /etc/init.d/redis-server start && clear && cat gitpod_readme.md
     - name: Build
       openMode: split-right
-      command: bash ct_scripts/install.sh && wiki_run.sh && cat gitpod_readme.md
+      command: bash ct_scripts/install.sh && bash wiki_run.sh && cat gitpod_readme.md
 
 ports:
   - port: 9998

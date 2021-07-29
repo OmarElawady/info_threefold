@@ -2,9 +2,9 @@
 
 | Function                                                                  | Description                                                                     |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Technical Community Manager, Teamlead](tech_community_manager_teamlead)   | Expand community of developers who wants to create solutions on top of TFGrid 3.0. |
-| [Grid Operations Manager](tfgrid_ops_manager)                             | Keep TFGrid operational globally, work with all the farmers.                |
-| [Development Manager](tfgrid_development_manager)                         | Oversee development & release management of TFGrid code components.          |
+| [Operations & Hardware Sales Manager](ops_hardware_sales_manager)   | Responsible for strategy and planning revolving around our commercial 3node setup. |
+| [Grid Operations Manager](tfgrid_ops_manager)                       | Keep TFGrid operational globally, work with all the farmers.                |
+| [Development Manager](tfgrid_development_manager)                   | Oversee development & release management of TFGrid code components.          |
 | [Master Architect, Digital Twin](tech_protocolme_architect) | Technical protocol.me / Digital Twin master architect.                           |
 | [Senior Developer, Digital Twin](tech_protocolme_engineer)                 | Senior developer protocol.me / Digital Twin, help us build the future.           |
 | [Senior Developer, ZeroOS](tech_zos_engineer)                             | Senior developer Zero-OS, help us build the future.                             |

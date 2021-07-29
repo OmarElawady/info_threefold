@@ -6,7 +6,7 @@
 - [Example farming with Titan v2.1](titan_v2_1)
 - [Farming Calculations](farming_calculator) - Calculate how much your tokens your 3Node would farm.
 - [Farming Hardware Examples](farming_hardware_overview)
-- [Planet Positive Farming](energy_savings) - our TFGrid offsets carbon 3x more than it uses.
+- [Planet Positive Farming](internet4:energy_savings) - our TFGrid offsets carbon 3x more than it uses.
 
 !!!include:farming_steps
 

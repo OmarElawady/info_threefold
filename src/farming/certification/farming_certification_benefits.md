@@ -1,4 +1,4 @@
-Starting from TFGrid 3.0 Planet Positive Node Certification is available for customers & partners of TFTech.
+## Certified Farming Benefits
 
 This certification program has many benefits for the TFGrid user, for the world and the farmer itself.
 
@@ -14,4 +14,5 @@ This certification program has many benefits for the TFGrid user, for the world 
 
 (*) in collaboration with TFTech, and planned for earliest Q4 2021.
 
-- [certification requirements](farming_certified_requirements)
+- [farming certification requirements](farming_certified_requirements)
+- [certified nodes](certified_node)

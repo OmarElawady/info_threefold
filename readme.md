@@ -1,4 +1,4 @@
-# info_threefold
+# ThreeFold main knowledge base
 
 Welcome to the ThreeFold Wiki.
 Here is where you'll find all info on anything related to ThreeFold movement.

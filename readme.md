@@ -1,13 +1,7 @@
 # info_threefold
 
 Welcome to the ThreeFold Wiki.
-Here is where you'll find all info on anything related to:
-
-- ThreeFold
-- The ThreeFold_Grid & Token
-- 3Bot
-- ThreeFold Technology
-- And more
+Here is where you'll find all info on anything related to ThreeFold movement.
 
 If you have any input, would like to see additions, or a cool idea, feel free to list an issue [here](https://github.com/threefoldfoundation/info_threefold/issues), and we'll make sure to try and get it in there.
 
@@ -17,21 +11,20 @@ Now go explore our wiki's.
 
 ## Contributing to this wiki
 
-For all contributors to this weekend.
-The approach to updating this wiki has now taken shape in this form.
+For all contributors to this wiki the approach to updating it is as follows:
 
 - all contributors make their contributions to the development_sprintX_weekX branches
 - 1 central pull request is made from development_sprintX_weekX to develompent branch on Thursdays at 14:00 (Brussels Timezone/CE(S)T)
-- 1 central pull request goes from development branch to master. this PR is reviewed by key stakeholders.
+- 1 central pull request goes from development branch to master. This PR is reviewed by key stakeholders.
 
 All changes not in by 14:00 Thursdays will have to wait untill next PR's are made.
 
-### to run locally
+### To run wiki locally
 
 - get tfweb from: https://github.com/threebotserver/publishingtools/blob/development/README.md
 - download this repo, run: `run.sh` which is in root of this repo
 
-### get the documents (content) using git
+### Get the documents (content) using git
 
 ```bash
 mkdir -p ~/code/github/threefoldfoundation
@@ -41,7 +34,7 @@ cd ~/code/github/threefoldfoundation
 git clone git@github.com:threefoldfoundation/info_threefold.git -b development
 ```
 
-### run the server
+### Run the server
 
 ```bash
 cd ~/code/github/threefoldfoundation/info_threefold
@@ -51,4 +44,4 @@ run.sh
 
 ### Editing the wikis
 
-- all md files are under src/docs directory, please make sure you get all your changes there.
+- All md files are under src/docs directory, please make sure you get all your changes there working on development_sprintX_weekX branch.

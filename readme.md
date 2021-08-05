@@ -1,7 +1,6 @@
 # ThreeFold main knowledge base
 
-Welcome to the ThreeFold mani wiki.
-Here is where you'll find all info on anything related to the ThreeFold movement.
+Welcome to the ThreeFold mani wiki. Here you'll find all info on anything related to the ThreeFold movement.
 
 If you have any input, a cool idea, or would like to see additions feel free to list an issue [here](https://github.com/threefoldfoundation/info_threefold/issues), and we'll make sure to try and get it in there.
 

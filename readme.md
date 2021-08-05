@@ -9,7 +9,7 @@ If you need any support please visit [our website](https://www.threefold.io) and
 
 Now go explore our wiki's.
 
-## Contributing to this wiki
+<-- ## Contributing to this wiki
 
 For all contributors to this wiki the approach to updating it is as follows:
 
@@ -44,4 +44,4 @@ run.sh
 
 ### Editing the wikis
 
-- All md files are under src/docs directory, please make sure you get all your changes there working on development_sprintX_weekX branch.
+- All md files are under src/docs directory, please make sure you get all your changes there working on development_sprintX_weekX branch. -->

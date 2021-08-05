@@ -7,7 +7,7 @@ All ThreeFold announcements and updates can be found on the Newsroom on our webs
 
 ## ThreeFold Newsroom
 
-![](img/tfblog.png)
+![](img/tfnews.png)
 
 ## ThreeFold News & Updates Telegram Channel
 

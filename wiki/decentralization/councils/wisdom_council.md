@@ -46,6 +46,7 @@ We also call a Wisdom Council Member a ThreeFold Guardian.
 - Owen Kemp
 - Rishi Chidananda
 - Rudy Bouwman
+- Sophie Monpeyssen
 - Thibault Verbiest
 
 Meet our current [**Wisdom Council members**](https://threefold.io/aci/wisdomcouncil)

@@ -36,6 +36,7 @@ Wisdom Council Members are community leaders chosen by Founders Circle due to th
 
 We also call a Wisdom Council Member a ThreeFold Guardian.
 
+- Sophie Monpeyssen
 - Adnan Fatayerji
 - Ali Moshon
 - Dave de Belder

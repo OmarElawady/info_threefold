@@ -1,4 +1,3 @@
-
 # Wisdom Council
 
 ![](img/wisdom_council.png)
@@ -77,53 +76,6 @@ Not at this time.
 - We are not addicted to any substance (e.g. food, drugs)
   - We can make decisions without being influenced because of the desire for one of the above-mentioned topics.
 - We are technical – we are able & willing to use digital currency wallets, GitHub (or alternative), markdown code, wiki texts, etc.
-
-
-!!!include:guardian_disclaimer
-
-!!!def name:'Wisdom Council' alias:wisdom_council,TF_wisdom_council
-
-
-
-- Rishi Chidananda
-- Michael Wellesley-Wesley
-- Isabelle Peters
-- Sophie Monpeyssen
-- Adnan Fatayerji
-- Dave de Belder
-- Dimitrios Dementzioglou
-- Kristof de Spiegeleer
-- Owen Kemp
-
-Meet our current [**Wisdom Council members**](https://threefold.io/aci/wisdomcouncil)
-
-## Remarks about Grants
-
-ThreeFold Foundation receives through the blockchain a percentage of all cloud capacity farmed and sold on the ThreeFold Grid. These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary do-good projects.
-
-Also a certain amount of TFT are available to use for the further development of the TFGrid.
-
-The Wisdom Council members converge (online) to discuss and vote upon the distribution of funds from ThreeFold Foundation to pre-approved and/or pre-selected do-good projects and organizations.
-
-
-## Remuneration
-
-Not at this time.
-
-## Fit for duty requirements
-
-- There is no ego involved by being a council member.
-  - We realize our own reason to be a council member is to be at the service of our community and the planet.
-- We work on self-development.
-  - We realize we know nothing and are nothing but will always work in the best interest of the planet. The more we learn, the less we know.
-  - We don’t blame others – change starts with ourselves.
-  - We actively work on our *own* self-development (e.g. meditation, self-reflection, sessions with energy healers or spiritual coaches, etc.)
-- We really believe the values as described on our [FreeFlow Nation](https://freeflownation.org/manifesto.html).
-  - We know them, we understand them, we agree with them.
-- We are not addicted to any substance (e.g. food, drugs)
-  - We can make decisions without being influenced because of the desire for one of the above-mentioned topics.
-- We are technical – we are able & willing to use digital currency wallets, GitHub (or alternative), markdown code, wiki texts, etc.
-- We are willing to be a Guardian for at least 2 years starting our submission.
 
 
 !!!include:guardian_disclaimer

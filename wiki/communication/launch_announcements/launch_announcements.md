@@ -1,4 +1,19 @@
-# History of Announcements & Updates
+# Announcements & Updates
+
+All ThreeFold announcements and updates can be found on the Newsroom on our website as well as on our Telegram News & Updates Telegram Channel:
+
+- [ThreeFold Newsroom](https://threefold.io/news)
+- [ThreeFold News and Updates Telegram Channel](https://t.me/threefoldnews)
+
+## ThreeFold Newsroom
+
+![](img/tfnews.png)
+
+## ThreeFold News & Updates Telegram Channel
+
+![](img/tfnewschannel.png)
+
+<!--
 
 ## 2021
 
@@ -65,7 +80,7 @@
 
 ### January
 
-<!-- - **2020 Update:** [ThreeFold End 2020 Update](threefold_update_jan2021) >> non existent update document -->
+<!-- - **2020 Update:** [ThreeFold End 2020 Update](threefold_update_jan2021) >> non existent update document --> <!--
 - [January 12: 2020 Highlights & Grid 2.4 Live on Testnet!](grid24_and_2020)
 - [January 13: Discussion With the Global Impact Alliance](globalimpactalliance)
 - [January 28: The Cyber Pandemic is Here, But it's Not Too Late](cyberpandemicconvo)
@@ -176,3 +191,5 @@
 - [May 26: Hello, WaykiChain!](waykichainintro)
 - [May 27: TFT on Liquid & BTC Alpha](liquidbtcalpha)
 - [May 29: Harmony (Protocol) Partnership!](harmonyintro)
+
+-->

@@ -1,5 +1,5 @@
 # ThreeFold Blog
 
-![Blog](img/blog_header.jpg)
+You can find the ThreeFold Blog [here](https://threefold.io/blog)!
 
-See https://threefold.io/blog
+![Blog](img/tfblog.png)

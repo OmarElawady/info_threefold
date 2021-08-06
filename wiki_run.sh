@@ -1,3 +1,3 @@
-cd wiki
-./run.sh
+cd wikicmds
+bash run.sh
 

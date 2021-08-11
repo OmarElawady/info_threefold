@@ -4,14 +4,21 @@
 
 ## Cloud Unit Pricing
 
+| Cloud Units       | description                                      | mUSD (*) | mTFT (*) |
+| ----------------- | ------------------------------------------------ | -------- | -------- |
+| Compute Unit (CU) | typically 2 vcpu, 4 GB mem, 50 GB storage        | 30/hour  | 600/hour |
+| Storage Unit (SU) | typically 1 TB of netto usable storage (*)       | 15/hour  | 300/hour |
+| Network Unit (NU) | 1 GB transfer, bandwidth as used by TFGrid users | 0.10/GB  | 2/GB     |
 
 
-| cloud unit type         | description                                      | mUSD/hour (*) | mTFT/hour (*) |
-| ----------------------- | ------------------------------------------------ | ------------- | ------------- |
-| Compute Unit (CU)       | typically 2 vcpu, 4 GB mem, 50 GB storage        | 30            | 600           |
-| Storage Unit (SU)       | typically 1 TB of netto usable storage (*)       | 15            | 300           |
-| Network Unit (NU month) | 1 GB transfer, bandwidth as used by TFGrid users | 0.10          | 2             |
-| IPv4 Address            | Public Ip Address as used by a TFGrid user       | 5             | 100           |
+| Network Addressing | description                                | mUSD (*) | mTFT (*) |
+| ------------------ | ------------------------------------------ | -------- | -------- |
+| IPv4 Address       | Public Ip Address as used by a TFGrid user | 5/hour   | 100/hour |
+| Unique Name        | Usable as name on webgateways              | 1/hour   | 20/hour  |
+| Unique Domain Name | Usable as dns name on webgateways          | 2/hour   | 40/hour  |
+
+| cloud unit type | description | mUSD/GB (*) | mTFT/GB (*) |
+| --------------- | ----------- | ----------- | ----------- |
 
 
 - (*) Pricing in milli TFT = TFT/1000 and is pegged to USD, discounts see below.

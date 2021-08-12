@@ -17,9 +17,6 @@
 | Unique Name        | Usable as name on webgateways              | 1/hour   | 20/hour  |
 | Unique Domain Name | Usable as dns name on webgateways          | 2/hour   | 40/hour  |
 
-| cloud unit type | description | mUSD/GB (*) | mTFT/GB (*) |
-| --------------- | ----------- | ----------- | ----------- |
-
 
 - (*) Pricing in milli TFT = TFT/1000 and is pegged to USD, discounts see below.
 - pricing is calculated per hour for the TFGrid 3.0 using our consensus3 concept.

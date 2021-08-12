@@ -19,7 +19,8 @@ We expect most of the business for next 6 months to come through our certified s
 ### When capacity bought by Farmer itself
 
 - [ ] 25% needs to be burned
-- [ ] 75% to farmer
+- [ ] 5% to TFFoundation 
+- [ ] 70% to farmer
 
 ### When capacity bought by person as referred to by farmer.
 
@@ -27,6 +28,7 @@ We expect most of the business for next 6 months to come through our certified s
 - [ ] 5% to TFFoundation
 - [ ] 50% to Farmer (because farmer found the user of the grid, CU/SU only)
 - [ ] 20% goes to sales channel (can be multi level, as organized by ThreeFold)
+- planned for end 2021
 
 ### When capacity bought by any Grid User
 

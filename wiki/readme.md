@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hi there 👋
 
 Welcome to the ThreeFold Wiki. Here you will find all relevant information around ThreeFold.
 

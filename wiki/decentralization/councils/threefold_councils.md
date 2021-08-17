@@ -6,7 +6,7 @@ ThreeFold Councils / Guardians are groups of trusted and knowledgeable people wh
 
 ## Wisdom Council
 
-A group of 10 people who protect the interests of the ThreeFold Foundation and support growth of a new Conscious Internet.
+A group of 9-12 people who protect the interests of the ThreeFold Foundation and support growth of a new Conscious Internet.
 
 ### What do they do?
 
